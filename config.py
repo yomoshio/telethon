@@ -1,0 +1,35 @@
+API_TOKEN = "7563728724:AAFsgX4-_DjRiTxXV3tuNS8OqUF0Qi2FwfU"
+
+
+PROXY_LIST = [
+    "pool.infatica.io:10000:BiPSTBbGz8my9X3jK1s1:RNW78Fm5", 
+    "pool.infatica.io:10001:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10002:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10003:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10004:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10005:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10006:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10007:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10008:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10009:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10010:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10011:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10012:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10013:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10014:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10015:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10016:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10017:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10018:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10019:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10020:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10021:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10022:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10023:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10024:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10025:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10026:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10027:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10028:BiPSTBbGz8my9X3jK1s1:RNW78Fm5",
+    "pool.infatica.io:10029:BiPSTBbGz8my9X3jK1s1:RNW78Fm5"
+]
